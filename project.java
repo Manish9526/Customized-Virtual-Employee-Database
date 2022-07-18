@@ -561,34 +561,6 @@ class project
 	public static void main(String arg[])
 	{
 		DBMS dobj=new DBMS();
-		dobj.StartDBSM();
-		/*Employee subj1=new Employee("Manish",12200,"karjat");
-		Employee subj2=new Employee("kalpesh",18300,"pune"");
-		Employee subj3=new Employee("Suraj",1000,"pune");
-		Employee subj4=new Employee("Sachin",10000,"karjat");
-		Employee subj5=new Employee("rushi",45000,"pune");
-		subj.DisplaySpacific();
-		/*dobj.InsertData();
-		dobj.InsertData(");
-		dobj.InsertData("");
-		dobj.InsertData("");
-		dobj.InsertData("anikat",13000,"mumbai");
-		dobj.InsertData(""),;
-		dobj.InsertData("kalpana",100,"pune");
-		
-		//dobj.DisplayAll();
-		//dobj.DisplaySpacific(2);
-		//dobj.DisplaySpacific("Manish");
-		//dobj.DeleteSpacific("Manish");
-		//dobj.DisplayAll();
-		dobj.AggregateMax();
-		dobj.AggregateMin();
-		dobj.AggregateAvg();
-		dobj.AggregateCount();
-		dobj.AggregateSum();
-		*/
-		
-		//Employee subj=new Employee();
-		
+		dobj.StartDBSM();		
 	}
 }
