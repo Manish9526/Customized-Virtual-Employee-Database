@@ -51,8 +51,8 @@ class DBMS
 		
 		System.out.println(" customised DBMS strated Succesfully.......");
 		System.out.println("##########################################################");
-		System.out.println("#              CREATE A TABLE FOR EMPLOYE                #");
-		System.out.print("# 		In this table we can stover 		 #\n# 		Name of Employee            		 #\n# 		RollNumber                   		 #\n# 		Address of employe          		 #\n# 		Salary                     		 #\n");
+		System.out.println("#              CREATE A TABLE FOR EMPLOYEE               #");
+		System.out.print("# 		In this table we can store  		 #\n# 		Name of Employee            		 #\n# 		RollNumber                   		 #\n# 		Address of employe          		 #\n# 		Salary                     		 #\n");
 		System.out.println("##########################################################");
 		String Query="";
 	
